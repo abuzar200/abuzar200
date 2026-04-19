@@ -1,16 +1,13 @@
-## Hi there 👋
+## Mohammad Abuzar
 
-<!--
-**abuzar200/abuzar200** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+2nd year CS student at Garden City University, Bengaluru.
 
-Here are some ideas to get you started:
+Currently:
+- Learning Python through MIT 6.0001 OCW — daily commits
+- Contributing to MNE-Python (open source neuroscience library)
+- Building interactive EEG tools with JupyterLite
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Languages:** Python (learning), C++  
+**Tools:** Git, MNE-Python, Jupyter  
+
+Building in public. Every commit is real, written from memory.
