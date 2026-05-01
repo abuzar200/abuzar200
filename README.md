@@ -4,10 +4,10 @@
 
 Currently:
 - Learning Python through MIT 6.0001 OCW — daily commits
-- Python Open Source MNE-Python
 - Building interactive EEG tools with JupyterLite
+- Open to engineering internships from July 2026
 
-**Languages:** Python (learning), C++  
-**Tools:** Git, MNE-Python, Jupyter  
+**Languages:** Python (learning)
+**Tools:** Git, Jupyter, MNE-Python
 
 Building in public. Every commit is real, written from memory.
