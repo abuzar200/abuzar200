@@ -4,7 +4,7 @@
 
 Currently:
 - Learning Python through MIT 6.0001 OCW — daily commits
-- Contributing to MNE-Python (open source neuroscience library)
+- Python Open Source MNE-Python
 - Building interactive EEG tools with JupyterLite
 
 **Languages:** Python (learning), C++  
